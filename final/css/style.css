@@ -1,0 +1,40 @@
+*{
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 20px;
+}
+
+body {
+    background-color: beige;
+}
+
+#greeting {
+    color : cornflowerblue;
+}
+
+.clicked{
+    color : tomato;
+}
+
+.hidden{
+    display:none;
+}
+
+
+span#greeting{
+    font-size:55px;
+
+}
+
+img{
+    text-align: center;
+    max-width: 50%;
+    max-height: 30%;
+    
+}
+
+button{
+ 
+    border-radius: 50%;
+    background : beige;
+    
+}
